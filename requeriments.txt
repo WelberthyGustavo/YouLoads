@@ -1,0 +1,4 @@
+#Yourloads by Welberthy Gustavo
+
+tqdm
+pytube==10.8.2
