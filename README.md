@@ -1,4 +1,4 @@
-# YouTube Video and Playlist Downloader
+# YouLoads
 
 Download YouTube videos and playlists with this Python script using the Pytube library. This tool allows you to easily save videos and entire playlists to your computer.
 
